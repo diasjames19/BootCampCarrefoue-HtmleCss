@@ -1,0 +1,53 @@
+body{
+    background: #f7f7f7;
+    font-family: verdana;
+    max-width: 900px;
+    margin: auto;
+}
+#titulo, .subtitulo, .post-titulo{
+    color: #505050;
+}
+#titulo{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: line-through;
+    color: #505050;
+}
+.foto-perfil{
+    border-radius: 50%;
+    border: 2px solid #505050;
+}
+.post-titulo{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.post{
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 15px 5px;
+}
+.post-conteudo{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    width: 100%;
+    text-align: justify;
+    font-t
+}
+.post-img{
+    margin-bottom: 15px;
+    width: 100%;
+}
+.link-rodape{
+    list-style-type: none;
+    padding-left: 15px;
+}
+.link-rodape li a{
+    text-decoration: none;
+}
